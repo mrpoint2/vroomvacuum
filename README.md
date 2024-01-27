@@ -1,7 +1,7 @@
 # VroomVacuum
 ### loadstring:
 ```lua
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TrueWXY/VroomVacuum/main/Script.lua"), true)()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/TrueWXY/mrpoint2/main/Script.lua"), true)()
 ```
 
 ### Update logs:
